@@ -36,11 +36,6 @@ header {
 	color: #5a4637;
 	font-size: 20px;
 }
-.logo2 {
-	text-decoration: none;
-	color: #c9beb7;
-	font-size: 15px;
-}
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -108,6 +103,11 @@ footer {
 	font-size: 14px;
 	margin-top: 10px;
 	color: #c9beb7;
+}
+.logo2 {
+	text-decoration: none;
+	color: #c9beb7;
+	font-size: 15px;
 }
 
 /* ---------- Startsida ---------- */
